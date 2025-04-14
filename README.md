@@ -4,7 +4,7 @@ I'm a medical doctor with a strong passion for research in **Artificial Intellig
 
 ## My Journey  
 
-My fascination with technology began in childhood, when I started designing websites using Joomla and WordPress, as well as building custom websites from scratch. As I grew older, I explored application development with C#, further deepening my interest in software and automation.  
+My fascination with technology began in childhood, when I started designing websites using CMSs, as well as building custom websites from scratch. As I grew older, I explored application development with C#, further deepening my interest in software and automation.  
 
 During my medical education, I teamed up with a group of friends (**EN.SAF** 😘 as *Fairness* in Persian) to explore machine learning with a focus on computer vision in medical practice. This led to a thesis project that involved diagnosing **Acute Lymphoblastic Leukemia (ALL)** and **Acute Myeloblastic Leukemia (AML)** through the analysis of blood and bone marrow slide images, with a dataset we collected over the span of one year. Over time, I honed my skills in Python 🐍 and worked extensively with machine learning libraries like **PyTorch** and **TensorFlow**. More recently, I've expanded into Natural Language Processing and working with Large Language Models, actively designing models and utilizing tools such as **LangChain** to push the boundaries of Medical AI.  
 
